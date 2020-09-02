@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "email": "ngothihuong@gmail.com",
+      "password": "$2a$10$uqe7ZOFLRBbWw7QlDzF2IuA.LFGphg8YwDqWXzC0KPfa2irfKnfmi",
+      "avatar": "",
+      "bio": "",
+      "id": 1
+    },
+    {
+      "email": "admin@admin",
+      "password": "$2a$10$kB5sWdCgoiCgWHYC9Ykpi.KG.isr3Fhv9xWaTr7RtiBNfwtkWX/iK",
+      "id": 2
+    }
+  ]
+}
